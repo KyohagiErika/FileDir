@@ -1,5 +1,5 @@
 # FileDir
-C is a powerful programming language for operating and interacting with the Window OS. In C, we can directly run window commmands (normally use in cmd, powershell or terminal) by the `system(char *command)` function. Thus, we can take its advantage to easily manipulate folders and files. This homemade library is dedicated to provide you some simple operations that implement the idea above.
+C is a powerful programming language for operating and interacting with the Window OS. In C, we can directly run window commands (normally use in cmd, powershell or terminal) by the `system(char *command)` function. Thus, we can take its advantage to easily manipulate folders and files. This homemade library is dedicated to provide you some simple operations that implement the idea above.
 
 ##### Project Structure
 My project supplies you the **FileDir** library as well as a demo project to show you how to use it. If you use **DevC++** IDE, you can open the `.dev` file to understand the stucture of each one.
