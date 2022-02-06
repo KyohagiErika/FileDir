@@ -34,6 +34,6 @@ void dir_copy(char *src_path, char *des_path) {
 	strcat(command,src_path);
 	strcat(command,"\" \"");
 	strcat(command,des_path);
-	strcat(command,"\" /E/H/I > NUL");
+	strcat(command,"\" /E/H/I/Y > NUL");
 	system(command);
 }
